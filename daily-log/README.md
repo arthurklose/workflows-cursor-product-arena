@@ -11,7 +11,7 @@ Captura rápida de acontecimentos do dia — fechamentos, reuniões, marcos, fee
 ## Como funciona
 
 ```
-/log Fechei patrocínio do Replit para o podcast
+/log após lançar a feature XXXX, aumentamos xx% o engajamento
 ```
 
 O sistema:
@@ -48,6 +48,6 @@ O sistema:
 ## Dicas
 
 - Capture no momento — não espere o fim do dia
-- Seja específico: "Fechei contrato de R$50k com Itaú" > "Fechei contrato"
+- Seja específico: "Fechei uma parceria de R$xxx.xxx com empresa XXXX" > "Fechei contrato"
 - Use `/log` várias vezes ao dia se necessário
 - Combine com workflow de weekly-wins para gerar resumos
