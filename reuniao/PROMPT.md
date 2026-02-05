@@ -89,7 +89,7 @@ Ler `Knowledge/clients/clients-insights.md` e atualizar:
 
 **Usuário:**
 ```
-/reuniao Ambev
+/reuniao Empresa X
 
 Subcliente: Marketing
 Participantes: Ana (Gerente), Carlos (Analista)
@@ -97,12 +97,12 @@ Participantes: Ana (Gerente), Carlos (Analista)
 Updates: Campanha de verão superou meta em 20%
 Perguntas: Como escalar o processo de briefing?
 Decisões: Vamos fazer POC de automação
-Próximos: Eles mapeiam processo atual, eu trago opções de ferramentas
+Próximos: mapear processo atual e trazer opções de ferramentas
 ```
 
 **Assistente:**
 Reunião processada:
-- Cliente: Ambev / Marketing
+- Cliente: Empresa X / Marketing
 - 1 pergunta, 1 decisão, 2 próximos passos registrados
 - Oportunidade adicionada: POC de automação
-- Arquivos atualizados: `Ambev/Marketing.md`, `clients-insights.md`
+- Arquivos atualizados: `EmpresaX/Marketing.md`, `clients-insights.md`
